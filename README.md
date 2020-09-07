@@ -1,6 +1,4 @@
-# Lista1-JavaScript
-
-![Análise e Desenvolvimento de Sistemas - Senac 2020](https://www.google.com/search?q=senac&rlz=1C1WZPD_enBR895BR895&sxsrf=ALeKk01mEGOCyT1Y-vtMjbzveKXb4VyFZA:1599504479032&source=lnms&tbm=isch&sa=X&ved=2ahUKEwie6KfC2tfrAhUyHLkGHTiUA74Q_AUoA3oECBwQBQ&biw=1366&bih=635#imgrc=c4oK8a1lzIIZnM)
+![Análise e Desenvolvimento de Sistemas - Senac 2020](https://www.ead.senac.br/arquivo/api/download/publico/1134)
 ##
 # JAVASCRIPT - Lista 1
 
@@ -43,4 +41,4 @@ Faça um programa que receba a idade e a opinião de 15 espectadores, calcule e 
 ##
 7. Faça um script que receba uma data no formato “dd/mm/aaaa” e escreva a data por extenso. Dica: use a função “split” de uma string que quebra a string em pedaços dado um separador como argumento da função. Nesse caso, o separador é a barra (/) da data.
 
-Exemplo: Para a entrada “22/04/1983” deve ser escrito “22 de abril de 1983”.
+-   Exemplo: Para a entrada “22/04/1983” deve ser escrito “22 de abril de 1983”.
