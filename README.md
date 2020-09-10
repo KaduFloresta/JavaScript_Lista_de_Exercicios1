@@ -4,6 +4,7 @@ Análise e Desenvolvimento de Sistemas - Senac 2020
 
 ## Instruções
 
+
 **Nos exercícios com grandes conjuntos de dados, a entrada de dados poderá ser uma array (não precisa ser "inputado" pelo usuário).  
 Responder a Tarefa com o link do github e a pasta dos exercícios.  
 Organizar os exercícios em arquivos diferentes: exer1, exer2, ...**  
@@ -13,7 +14,7 @@ Organizar os exercícios em arquivos diferentes: exer1, exer2, ...**
 -   a maior e a menor altura do grupo;
 -   a média de altura das mulheres;
 -   o número de homens.
----
+___
 2. Cada espectador de um cinema respondeu a um questionário no qual constava sua idade e a sua opinião em relação ao filme: ótimo - 3, bom - 2, regular -1.  
 Faça um programa que receba a idade e a opinião de 15 espectadores, calcule e imprima:
 
@@ -42,4 +43,3 @@ Faça um programa que receba a idade e a opinião de 15 espectadores, calcule e 
 7. Faça um script que receba uma data no formato “dd/mm/aaaa” e escreva a data por extenso. Dica: use a função “split” de uma string que quebra a string em pedaços dado um separador como argumento da função. Nesse caso, o separador é a barra (/) da data.
 
  - Exemplo: Para a entrada “22/04/1983” deve ser escrito “22 de abril de 1983”.
-
