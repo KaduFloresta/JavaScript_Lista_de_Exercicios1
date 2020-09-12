@@ -6,7 +6,7 @@
  <br />
 
  <sub><b>Kadu Floresta </b></sub></a>
- <h6><a href="https://github.com/KaduFloresta" title="HomeGit">🏠 GitHub - Home</a></h6>
+ <a href="https://github.com/KaduFloresta" title="HomeGit">🏠 GitHub - Home</a>
  <a href="https://github.com/KaduFloresta?tab=repositories" title="RepoGit">📂 GitHub - Repositórios</a>
 
 Feito por Kadu Floresta 👋🏽 Entre em contato!
