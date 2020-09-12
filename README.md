@@ -45,6 +45,7 @@ Faça um programa que receba a idade e a opinião de 15 espectadores, calcule e 
 ---
 5. Faça um programa que receba a idade, o peso e o sexo de 10 pessoas. Calcule e imprima:
 
+
 -   total de homens;
 -   total de mulheres;
 -   média das idades dos homens;
