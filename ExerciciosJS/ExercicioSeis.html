@@ -4,6 +4,7 @@
 <head>
     <title>Exercicio #6</title>
     <meta charset="UTF-8">
+    <link rel="stylesheet " type="text/css " href="css/style.css " />
     <script>
         var
             salario,
@@ -18,20 +19,20 @@
             alert("Salário Antes do Reajuste: R$ " + salario.toFixed(2) + ".\n-- Aumento Aplicado 20% ----\nValor do Aumento: R$ " + aumento.toFixed(2) + ".\nSalário Após o Aumento: R$ " + salarioNovo.toFixed(2) + ".");
         }
 
-        if (salario > 280 && salario <= 700) {
+        else if (salario > 280 && salario <= 700) {
             aumento = (salario * 15 / 100);
             salarioNovo = aumento + salario;
             alert("Salário Antes do Reajuste: R$ " + salario.toFixed(2) + ".\n-- Aumento Aplicado 15% --\nValor do Aumento: R$ " + aumento.toFixed(2) + ".\nSalário Após o Aumento: R$ " + salarioNovo.toFixed(2) + ".");
         }
 
-        if (salario > 700 && salario <= 1500) {
+        else if (salario > 700 && salario <= 1500) {
             aumento = (salario * 10 / 100);
             salarioNovo = aumento + salario;
             alert("Salário Antes do Reajuste: R$ " + salario.toFixed(2) + ".\n-- Aumento Aplicado 10% --\nValor do Aumento: R$ " + aumento.toFixed(2) + ".\nSalário Após o Aumento: R$ " + salarioNovo.toFixed(2) + ".");
         }
 
-        if (salario > 1500) {
-            aumento = (salario * 10 / 100);
+        else {
+            aumento = (salario * 5 / 100);
             salarioNovo = aumento + salario;
             alert("Salário Antes do Reajuste: R$ " + salario.toFixed(2) + ".\n-- Aumento Aplicado 5% --\nValor do Aumento: R$ " + aumento.toFixed(2) + ".\nSalário Após o Aumento: R$ " + salarioNovo.toFixed(2) + ".");
         }
@@ -40,7 +41,9 @@
 </head>
 
 <body>
-
+    <img class="imgExercicios" src="../ExerciciosJS/img/adsPrincipal.jpg">
+    <br><br>
+    <a href="index.html"><input class="buttonVoltar" type="button" value="Voltar"></a>
 </body>
 
 </html>

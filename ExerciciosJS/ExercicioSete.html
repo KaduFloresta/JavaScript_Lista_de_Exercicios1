@@ -4,6 +4,7 @@
 <head>
     <title>Exercicio #7</title>
     <meta charset="UTF-8">
+    <link rel="stylesheet " type="text/css " href="css/style.css " />
     <script>
         function mesDigitado(mes) {
             switch (mes) {
@@ -50,15 +51,17 @@
         }
 
         var data = prompt("Informe a Data no Formato dd/MM/aaaa");
+        var dataFormatada = Date(data);
         var separador = data.split("/");
         alert("--- Data Formatada ---\n" + separador[0] + " de " + mesDigitado(parseInt(separador[1])) + " de " + separador[2]);
-
     </script>
 
 </head>
 
 <body>
-
+    <img class="imgExercicios" src="../ExerciciosJS/img/adsPrincipal.jpg">
+    <br><br>
+    <a href="index.html"><input class="buttonVoltar" type="button" value="Voltar"></a>
 </body>
 
 </html>
