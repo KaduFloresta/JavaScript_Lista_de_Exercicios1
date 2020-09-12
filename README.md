@@ -2,12 +2,12 @@
 ---
 
 <a href="https://www.linkedin.com/in/kadufloresta/">
- <img style="border-radius: 10px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFfIeRf3UDQ9Q/profile-displayphoto-shrink_400_400/0?e=1605139200&v=beta&t=vWVjctWELGPrf-DrfqlwmBWjl88lk6ZwKTUJoCIkI_I" width="100px; alt=""/>
+ <img style="border-radius: 5px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFfIeRf3UDQ9Q/profile-displayphoto-shrink_400_400/0?e=1605139200&v=beta&t=vWVjctWELGPrf-DrfqlwmBWjl88lk6ZwKTUJoCIkI_I" width="100px; alt=""/>
  <br />
 
- <sub><b>Kadu Floresta </b></sub></a>
- <a href="https://github.com/KaduFloresta" title="HomeGit">🏠 GitHub - Home</a>
- <a href="https://github.com/KaduFloresta?tab=repositories" title="RepoGit">📂 GitHub - Repositórios</a>
+ <h5><sub><b>Kadu Floresta </b></sub></a><br></h5>
+ <h6><a href="https://github.com/KaduFloresta" title="HomeGit">🏠 GitHub - Home</a><br></h6>
+ <h6><a href="https://github.com/KaduFloresta?tab=repositories" title="RepoGit">📂 GitHub - Repositórios</a><br></h6>
 
 Feito por Kadu Floresta 👋🏽 Entre em contato!
 
