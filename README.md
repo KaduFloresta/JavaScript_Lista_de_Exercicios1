@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/kadufloresta/">
  <img style="border-radius: 5px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFfIeRf3UDQ9Q/profile-displayphoto-shrink_400_400/0?e=1605139200&v=beta&t=vWVjctWELGPrf-DrfqlwmBWjl88lk6ZwKTUJoCIkI_I" width="100px; alt=""/>
  <br />
- <sub><b>Kadu Floresta </b></sub></a><br>
+ <sub><b>Kadu Floresta </b></sub></a><br><br>
  <code><a href="https://github.com/KaduFloresta" title="HomeGit">🏠 GitHub - Home</a><br></code>
  <code><a href="https://github.com/KaduFloresta?tab=repositories" title="RepoGit">📂 GitHub - Repositórios</a><br></code>
 
