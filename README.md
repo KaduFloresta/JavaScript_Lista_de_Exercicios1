@@ -1,13 +1,13 @@
 ### Autor
 
 <a href="https://www.linkedin.com/in/kadufloresta/">
- <img style="border-radius: 5px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFfIeRf3UDQ9Q/profile-displayphoto-shrink_400_400/0?e=1605139200&v=beta&t=vWVjctWELGPrf-DrfqlwmBWjl88lk6ZwKTUJoCIkI_I" width="100px; alt=""/>
+ <img style="border-radius: 5px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFfIeRf3UDQ9Q/profile-displayphoto-shrink_400_400/0?e=1605139200&v=beta&t=vWVjctWELGPrf-DrfqlwmBWjl88lk6ZwKTUJoCIkI_I" width="100px; alt=""/></b>
  <h4><code>Feito por Kadu Floresta</a></code></h4>
  
  <code><a href="https://github.com/KaduFloresta" title="HomeGit">🏠 GitHub - Home</a><br></code>
  <code><a href="https://github.com/KaduFloresta?tab=repositories" title="RepoGit">📂 GitHub - Repositórios</a><br></code>
 
-<code>Feito por Kadu Floresta 👋🏽 Entre em contato!</code>
+<code>👋🏽 Entre em contato!</code>
 
 [![Twitter Badge](https://img.shields.io/badge/-@kadu_kururu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kadu_kururu)](https://twitter.com/kadu_kururu)
 [![Linkedin Badge](https://img.shields.io/badge/-Kadu_Floresta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kadufloresta/)](https://www.linkedin.com/in/kadufloresta/) 
